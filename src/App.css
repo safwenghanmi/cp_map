@@ -1,0 +1,22 @@
+
+
+/* Navbar styles */
+.navbar {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* App container styles */
+.h {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+
